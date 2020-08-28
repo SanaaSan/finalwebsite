@@ -1,5 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+h1 {
+    font-family: 'Bebas Neue', cursive; 
+} 
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h2 {
+    font-family: 'Bebas Neue', cursive; 
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif; 
+}
+
+
+
+
+
+
+
+strong {
+    font-family: 'Open Sans Condensed', sans-serif; 
+}
+
+u {
+    font-family: 'Open Sans Condensed', sans-serif; 
+} 
+
+
+
+
+
+
+
 
 .container{ display: flex; 
 justify-content: center;
@@ -36,11 +75,11 @@ h2 {
 
 
 strong {
-    color: rgb(214, 28, 90);  
+    color: rgb(36, 14, 85);   
 }
 
 u {
-    color: rgb(105, 2, 79); 
+    color: rgb(214, 28, 90);    
 }
 
 
@@ -49,7 +88,7 @@ u {
 
 
 p{
-    color:rgb(72, 1, 226); 
+    color:rgb(36, 14, 85); 
     font-size-adjust: 90px;
     margin:10px 10px 10px 10px
 }
