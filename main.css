@@ -25,30 +25,42 @@ justify-content: center;
      height: 100%;  
 }
 
+h1 {
+    color: rgb(196, 30, 85);
+}
+
+
+h2 {
+    color: rgb(196, 30, 85); 
+} 
+
+
+strong {
+    color: rgb(214, 28, 90);  
+}
+
+u {
+    color: rgb(105, 2, 79); 
+}
+
+
 
 
 
 
 p{
-    color:rgb(34, 56, 177); 
+    color:rgb(72, 1, 226); 
     font-size-adjust: 90px;
     margin:10px 10px 10px 10px
-}
-
-*h1{ color: rgb(173, 196, 105);
-    font-family: 'Bebas Neue', cursive;
-    } 
-
-*h2{ font-family: 'Bebas Neue', cursive; 
 }
 
 
 
 
     a:link,a:visited {
-        background-color: rgb(38, 80, 218);
-        color: rgb(88, 25, 72); 
-        border: 2px solid rgb(128, 128, 206);
+        background-color: rgb(143, 12, 73);
+        color: rgb(231, 227, 229); 
+        border: 2px solid rgb(148, 148, 231);
         padding: 10px 20px;
         text-align: center;
         text-decoration: none;
@@ -61,8 +73,8 @@ p{
         }
         a:hover,a:active
         {
-         background-color:rgb(85, 8, 85);
-         color:whitesmoke;  
+         background-color:rgb(130, 106, 185);
+         color:rgb(109, 29, 82);  
         }
 
         
